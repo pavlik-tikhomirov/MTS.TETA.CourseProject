@@ -3,7 +3,8 @@
 1. [Введение](https://github.com/pavlik-tikhomirov/MTS.TETA.CourseProject#%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)
 2. [Аннотация](https://github.com/pavlik-tikhomirov/MTS.TETA.CourseProject#%D0%B0%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0-executive-summary)
 3. [Мой вклад в проект](https://github.com/pavlik-tikhomirov/MTS.TETA.CourseProject#%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5)
-
+4. [Структура кода] (https://github.com/pavlik-tikhomirov/MTS.TETA.CourseProject#%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F)
+5. 
 ## Введение
 Летом 2021 (июль-август) была организована летняя школа МТС.ТЕТА по направлению "Машинное Обучение"
 
@@ -65,5 +66,8 @@ Config.py – необходимо настроить под чат-бота и 
 
 read.me Stock.Market MTS.Project.docx – полное описание проекта
 
+PredictRecommendation.py – файл с классами для прогнозирования (мной написан класс PredictRecomendationTrend)
+
 В папках models и normilizer и производных от них лежать модели .pkl для прогнозирования и нормализаторы данных
 
+Ноутбуки "Направление тренда", "Сила тренда" и "Подготовка к выводу" – мой код для построения самих моделей машинного обучения
