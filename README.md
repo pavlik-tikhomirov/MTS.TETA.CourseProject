@@ -64,3 +64,6 @@ MTSProject_StackMarket_bot.ipynb – основной файл, запускае
 Config.py – необходимо настроить под чат-бота и канал telegram
 
 read.me Stock.Market MTS.Project.docx – полное описание проекта
+
+В папках models и normilizer и производных от них лежать модели .pkl для прогнощирования и нормализаторы данных
+
